@@ -6,6 +6,8 @@ The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
+project implemented
+
 - The project is implemented in Java 11.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
