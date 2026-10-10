@@ -41,6 +41,7 @@ public class TorpedoStore {
     
     double r = generator.nextDouble();
 
+    // SonarQube showed =- typo bug.It's  fixed it to -= ,because it's correct syntax.
     if (r >= FAILURE_RATE) {
       // successful firing
       this.torpedoCount -= numberOfTorpedos;
