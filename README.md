@@ -5,6 +5,7 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 The application is simplified and deliberately contains bugs.
 
 [![Java CI with Maven](https://github.com/IslamNizami/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/IslamNizami/se-lab/actions/workflows/maven.yml)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Getting started
 
